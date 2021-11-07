@@ -1,0 +1,37 @@
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    margin-top: 150px;
+    width: 500px;
+    background-color: darkslategray;
+}
+.container header {
+    color: white;
+    background-color: black;
+    height: 80px;
+}
+.container table tr th {
+    text-align: left;
+}
+.butt {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 85px;
+    margin-top: 30px;
+}
+.container table {
+    margin-top: 30px;
+}
+.container footer{
+    color: whitesmoke;
+    background-color: black;
+    height: 20px;
+}
+.kembali{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 10px;
+    margin-top: 30px;  
+}
